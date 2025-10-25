@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Soham</h1>
+<h1 align="center">Hi 👋, I'm a Martian</h1>
 <h3 align="center">A passionate data enthusiast.</h3>
 
-- 👨‍💻 All of my projects are available at [analystsoham.netlify.app](analystsoham.netlify.app)
+- 👨‍💻 All of my projects are available at NULL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
